@@ -1,4 +1,4 @@
--- drop database db_pizzaria_legal;
+ -- drop database db_pizzaria_legal;
 create database db_pizzaria_legal;
 
 use db_pizzaria_legal;
